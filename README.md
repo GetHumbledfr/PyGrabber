@@ -1,6 +1,9 @@
 # Pygrabber
 
-**Pygrabber** is a hypothetical Python application designed to demonstrate a GUI that simulates a grabber application with various features. This application is intended for educational purposes only, highlighting the importance of ethical hacking and the risks associated with malicious software.
+**Pygrabber** is a hypothetical Python application designed to demonstrate a GUI that simulates a grabber application with various features. This application is intended for !
+educational purposes only, highlighting the importance of ethical hacking and the risks associated with malicious software.
+
+![image](https://github.com/user-attachments/assets/47be58d4-97aa-4230-b560-170483c63ecc)
 
 ## Features
 
