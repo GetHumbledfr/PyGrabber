@@ -1,4 +1,4 @@
-# PyGrabber# Pygrabber
+# Pygrabber
 
 **Pygrabber** is a hypothetical Python application designed to demonstrate a GUI that simulates a grabber application with various features. This application is intended for educational purposes only, highlighting the importance of ethical hacking and the risks associated with malicious software.
 
@@ -45,7 +45,9 @@ Pygrabber includes the following features (descriptions are hypothetical and for
    git clone https://github.com/gethumbledfr/Pygrabber.git
    cd Pygrabber
 2. Install required packages:
-```pip install -r requirements.txt```
+```bash
+   pip install -r requirements.txt
+```
 3. Run the application:
-```python pygrabber.py```
-
+```bash
+python pygrabber.py
