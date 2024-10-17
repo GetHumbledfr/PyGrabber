@@ -45,7 +45,7 @@ Pygrabber includes the following features (descriptions are hypothetical and for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gethumbledfr/Pygrabber.git
+   git clone https://github.com/arnoldisblank/Pygrabber.git
    cd Pygrabber
 2. Install required packages:
 ```bash
